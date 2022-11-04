@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-just test
-=======
- testing again
->>>>>>> main
