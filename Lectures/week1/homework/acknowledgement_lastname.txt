@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-I Luka acknowledge that
-=======
- this assignment is my own work
->>>>>>> homework_branch
