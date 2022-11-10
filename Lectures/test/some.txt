@@ -1,1 +1,9 @@
+<<<<<<< HEAD
  something
+=======
+<<<<<<< HEAD
+ hey hey hey 
+=======
+la la la
+>>>>>>> homework_branch
+>>>>>>> karkuzashvili/student
