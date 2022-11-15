@@ -24,6 +24,14 @@ hs_err_pid*
 
 #custom
 .idea/
+
 /Lectures/.gradle/
+/HibernateSample/.gradle/
+/MultyThreadTest/.gradle/
+
 /Lectures/build/
+/HibernateSample/build/
+/MultyThreadTest/build/
+
 scratch/
+/Lectures/src/main/resources/names.txt
