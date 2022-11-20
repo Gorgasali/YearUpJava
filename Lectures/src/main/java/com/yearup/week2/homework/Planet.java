@@ -30,4 +30,7 @@ package com.yearup.week2.homework;
     public double area(double radius) {
         return (3.14 * radius * radius);
     }
-}
+
+     @Override
+     public void displayCelestialObject(){};
+ }

@@ -23,6 +23,10 @@ class Body  implements Calculator {
     public double area(double r) {
         return r * r; //modifying area method for square
     }
+
+    @Override
+    public void displayCelestialObject(){};
+
     // area method which was implemented from the interface to calculator area of a square using the formula r*r
     protected double square() {
         System.out.println("Enter Side of Square: ");
